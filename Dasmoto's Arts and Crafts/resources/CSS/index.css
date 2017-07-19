@@ -1,0 +1,75 @@
+
+.header{
+    position: relative;
+    display: inline-block;
+}
+.companyname {
+    position: absolute;
+    height: 30%;
+    text-align: center;
+    width: 100%;
+}
+
+h4 {
+   display: inline-block;
+   font-size: 20px; /*or whatever you want*/
+   color: #FFF;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  opacity: 1.0
+}
+
+#brushes h2 {
+  background-color: mediumspringgreen;
+  opacity: 1.0
+}
+#frames h2 {
+  background-color: lightcoral;
+  opacity: 1.0
+}
+#paint h2 {
+  background-color: skyblue;
+  opacity: 1.0
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: normal;
+  color: black;
+  text-align: left;
+}
+
+.price span {
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: bold;
+  color: blue;
+  text-align: left;
+}
